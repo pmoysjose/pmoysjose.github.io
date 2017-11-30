@@ -31,7 +31,7 @@ text-align: center;
 }
 ::selection{
 color: white;
-background: orange;
+background: blue;
 }
 ul{
 padding: 10px;
